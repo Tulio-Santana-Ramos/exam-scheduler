@@ -1,0 +1,9 @@
+{
+  "name": "exam-scheduler",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "typecheck": "npm run typecheck --workspaces",
+    "lint": "npm run lint --workspaces"
+  }
+}

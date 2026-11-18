@@ -1,0 +1,11 @@
+.git
+**/node_modules
+**/dist
+graphify-out
+**/.env
+**/.env.*
+!**/.env.example
+deploy
+docs
+**/*.md
+apps/*/coverage
